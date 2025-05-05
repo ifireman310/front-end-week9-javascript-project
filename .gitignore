@@ -1,0 +1,2 @@
+#ignore node modules, even though for this project we don't have any
+node_modules/
